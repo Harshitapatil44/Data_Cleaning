@@ -1,11 +1,13 @@
-Data Cleaning and Preprocessing Project
-Overview
+##Data Cleaning and Preprocessing Project
+#Overview
 
 This project demonstrates a complete data cleaning and preprocessing workflow using Python. The objective was to transform a raw dataset into a clean, consistent, and analysis-ready dataset by identifying and handling common data quality issues such as missing values, duplicate records, inconsistent entries, and outliers.
 
 The project also includes exploratory data analysis (EDA) and data visualization to better understand the dataset and validate the cleaning process.
 
-Objectives
+------
+
+#Objectives
 Understand the structure and quality of the dataset.
 Handle missing values appropriately.
 Identify and remove duplicate records.
@@ -13,14 +15,20 @@ Standardize inconsistent categorical data.
 Detect and remove outliers using statistical techniques.
 Perform exploratory data analysis (EDA).
 Create visualizations for better data understanding.
-Technologies Used
+
+-----
+
+#Technologies Used
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
-Data Cleaning Steps Performed
-1. Data Inspection
+
+-----
+
+#Data Cleaning Steps Performed
+1. **Data Inspection**
 Loaded the dataset using Pandas.
 Examined dataset dimensions and column information.
 Checked data types and summary statistics.
