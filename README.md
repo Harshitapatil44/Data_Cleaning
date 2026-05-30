@@ -71,13 +71,14 @@ Seaborn
 -----
 
 # Project Structure
+```text
 Data_Cleaning_Project/
 │
 ├── Data_Cleaning_Practice.ipynb
 ├── dataset.csv
 ├── README.md
 └── images/
-
+```
 ------
 
 # Key Learning Outcomes
