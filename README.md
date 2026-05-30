@@ -103,7 +103,8 @@ After applying data cleaning and preprocessing techniques, the dataset became mo
 # Author
 
 **Harshita Patil**
-
+Data Scintist | Data Analyst
+**Skills**: Python, SQL, Pandas, NumPy, Data Visualization, Machine Learning, Data Analysis
 
 
 
