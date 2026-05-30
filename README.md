@@ -1,5 +1,5 @@
-## Data Cleaning and Preprocessing Project
-# Overview
+# Data Cleaning and Preprocessing Project
+## Overview
 
 This project demonstrates a complete data cleaning and preprocessing workflow using Python. The objective was to transform a raw dataset into a clean, consistent, and analysis-ready dataset by identifying and handling common data quality issues such as missing values, duplicate records, inconsistent entries, and outliers.
 
@@ -7,7 +7,7 @@ The project also includes exploratory data analysis (EDA) and data visualization
 
 ------
 
-## Objectives
+# Objectives
 Understand the structure and quality of the dataset.
 Handle missing values appropriately.
 Identify and remove duplicate records.
@@ -18,7 +18,7 @@ Create visualizations for better data understanding.
 
 -----
 
-## Technologies Used
+# Technologies Used
 Python
 Pandas
 NumPy
@@ -27,7 +27,7 @@ Seaborn
 
 -----
 
-##Data Cleaning Steps Performed
+# Data Cleaning Steps Performed
 **1. Data Inspection**
 > Loaded the dataset using Pandas.
 > Examined dataset dimensions and column information.
@@ -57,7 +57,7 @@ Seaborn
 
 -----
 
-## Visualizations Included
+# Visualizations Included
 . Histograms
 . Boxplots
 . Distribution Analysis
@@ -65,7 +65,7 @@ Seaborn
 
 -----
 
-## Project Structure
+# Project Structure
 Data_Cleaning_Project/
 │
 ├── Data_Cleaning_Practice.ipynb
@@ -75,7 +75,7 @@ Data_Cleaning_Project/
 
 ------
 
-## Key Learning Outcomes
+# Key Learning Outcomes
 
 Through this project, I gained practical experience in:
 Data cleaning and preprocessing techniques.
@@ -88,13 +88,13 @@ Preparing datasets for machine learning and data analysis tasks.
 
 -----
 
-## Results
+# Results
 
 After applying data cleaning and preprocessing techniques, the dataset became more consistent, reliable, and suitable for further analysis and machine learning applications. The project demonstrates the importance of data quality in the data science workflow.
 
 ------
 
-## Author
+# Author
 
 **Harshita Patil**
 
