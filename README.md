@@ -33,22 +33,27 @@ Seaborn
 > Examined dataset dimensions and column information.
 > Checked data types and summary statistics.
 > Identified missing values and duplicate records.
+
 **2. Handling Missing Values**
 > Detected null values using Pandas functions.
 > Applied suitable methods to handle missing data.
 > Ensured data consistency after treatment.
+
 **3. Removing Duplicates**
 > Identified duplicate rows.
 > Removed duplicate records to improve data quality.
+
 **4. Standardizing Data**
 > Corrected inconsistent text entries.
 > Standardized categorical values for uniformity.
 > Fixed formatting issues and naming inconsistencies.
+
 **5. Outlier Detection and Removal**
 > Used Z-Score based outlier detection.
 > Identified extreme observations.
 > Removed outliers to improve dataset reliability.
 > Visualized outliers using boxplots.
+
 **6. Exploratory Data Analysis (EDA)**
 > Analyzed distributions of numerical features.
 > Examined relationships between variables.
