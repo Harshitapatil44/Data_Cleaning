@@ -63,10 +63,10 @@ Seaborn
 -----
 
 # Visualizations Included
-. Histograms
-. Boxplots
-. Distribution Analysis
-. Summary Visualizations using Matplotlib and Seaborn
+- Histograms
+- Boxplots
+- Distribution Analysis
+- Summary Visualizations using Matplotlib and Seaborn
 
 -----
 
